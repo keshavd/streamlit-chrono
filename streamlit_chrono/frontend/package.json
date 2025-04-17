@@ -9,7 +9,7 @@
     "react-scripts": "^5.0.1",
     "react-step-progress-bar": "^1.0.3",
     "streamlit-component-lib": "^2.0.0",
-    "streamlit-component-lib-react-hooks": "^1.1.0"
+    "streamlit-component-lib-react-hooks": "^1.2.8"
   },
   "scripts": {
     "start": "react-scripts start",
